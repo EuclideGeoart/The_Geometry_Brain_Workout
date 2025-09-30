@@ -5,7 +5,7 @@ title: The Geometry Brain Workout
 
 # The Geometry Brain Workout
 
-![Book Cover](cover.jpg)
+![Book Cover](cover.png)
 
 ## Challenging Problems and Innovative Solutions
 
@@ -36,7 +36,7 @@ I studied Biotechnology at university, but later discovered my passion for geome
 - Designed to challenge, inspire, and develop creative thinking
 - Suitable for learners, educators, and geometry enthusiasts
 
-![Book Back](back.jpg)
+![Book Back](back.png)
 
 ---
 
